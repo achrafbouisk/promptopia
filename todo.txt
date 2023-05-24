@@ -1,7 +1,7 @@
 1:47:00
-[] implement Search
+[x] implement Search
     - search by prompt
     - search by tag
     - search by username
-[] implement Click on tag
+[x] implement Click on tag
 [] implement view other profiles
