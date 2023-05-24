@@ -4,4 +4,4 @@
     - search by tag
     - search by username
 [x] implement Click on tag
-[] implement view other profiles
+[x] implement view other profiles
