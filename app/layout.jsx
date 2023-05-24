@@ -4,13 +4,16 @@ import Nav from "@components/Nav";
 import Provider from "@components/Provider";
 
 export const metadata = {
-  title: "Promptopia",
+  title: "Promptopic",
   description: "Discover & Share AI Promps",
 };
 
 const RootLayout = ({ children }) => {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" href="/assets/images/logo.svg" sizes="any" />
+      </head>
       <body>
         <Provider>
           <div className="main">

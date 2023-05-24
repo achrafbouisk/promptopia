@@ -30,7 +30,7 @@ const Nav = () => {
           alt="Promptopia Logo"
           className="object-contain"
         />
-        <p className="logo_text">Propmptopia</p>
+        <p className="logo_text">Promptopic</p>
       </Link>
 
       {/* Desktop Navigation */}
